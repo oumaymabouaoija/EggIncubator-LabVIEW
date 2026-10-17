@@ -1,0 +1,6 @@
+﻿Project Backups/
+*.workspace
+*.elf
+*.eep
+*.bin
+*.with_bootloader.hex
